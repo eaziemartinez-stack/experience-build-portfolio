@@ -2,7 +2,7 @@ import React, { useEffect, useMemo, useRef, useState } from "react";
 import { MeshGradient, PulsingBorder } from "@paper-design/shaders-react";
 import { motion } from "framer-motion";
 import * as THREE from "three";
-import missPortrait from "../../assets/Miss.PNG";
+import missPortrait from "../../assets/MISS.PNG";
 
 /*
   ExperienceBuild_PROJECT.jsx
